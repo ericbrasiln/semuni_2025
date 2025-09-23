@@ -1,0 +1,60 @@
+---
+title: "Ensino, Pesquisa e Extensão em tempos de inteligência artificial:"
+subtitle: "implicações, riscos e possibilidades à educação."
+author: "Eric Brasil"
+date: today
+lang: pt-br
+date-format: full
+format:
+  revealjs: 
+    theme: white
+    slide-number: true
+    highlight-style: nord
+    incremental: false 
+    preview-links: auto
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/refs/heads/main/imgs/logos.png
+    footer: "SEMUNI 2025 | <a href=https://ericbrasil.com.br/contact/>Eric Brasil (Unilab)</a>"
+---
+
+# LLMs e a virada gerativa na pesquisa acadêmica: um olhar a partir das ciências humanas e sociais {.center}
+
+---
+
+## 1. Por que a desconfiança com o digital na pesquisa em ciências humanas e sociais? {.center}
+
+- Retorno ao positivismo e à quantificação? 
+- Vieses, racismo algorítmico e reprodução de desigualdades
+- Black box e falta de transparência 
+- Mais dados = maior qualidade?
+
+---
+
+## 2. Impasse metodológico e epistemológico {.center}
+
+- Ferramentas digitais = velocidade?
+- Ferramentas = Métodos?
+- E o impasse atual?
+
+---
+
+## 3. A virada gerativa e o uso de LLMs na pesquisa acadêmica {.center}
+
+- Chatbots são perfumaria para pesquisa acadêmica
+- LLMs como ferramentas de apoio à pesquisa para além dos chatbots
+
+---
+
+## 4. Hermenêutica digital aumentada {.center}
+
+- LLMs como ferramentas de apoio à análise qualitativa
+- RAG (Retrieval Augmented Generation)
+- "Entrevistar" o arquivo?
+
+---
+
+## 5. Desafios técnicos e éticos {.center}
+
+- Ciência de fronteira
+- Como competir com big techs e centros capitalistas?
+- Segurança, privacidade e integridade da informação
+- Impactos ambientais
